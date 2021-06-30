@@ -21,11 +21,11 @@ Elk Finance is a decentralized network for cross-chain liquidity, making it poss
 |Use for|Partnerships, Partner's website, Listings|Round profile images, favicon|
 |Alt versions|Black, White|Black, White|
 
-✅ Main logo can be used on both light and dark backgrounds, however, preferrable to use it on loght background
+✅ Main logo can be used on both light and dark backgrounds, however, preferrable to use it on a light background
 
 ❌ Do not use Full version for low-res assets, such as favicon.
 
-✅ Do: When needed, you can both black and white versions, however a proper contrast ration should be maintened.
+✅ Do: When needed, you can both black and white versions, however a proper contrast ration should be maintained.
 
 ❌ Do not: Use gradient on light background.
 
