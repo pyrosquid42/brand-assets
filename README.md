@@ -1,8 +1,12 @@
-# Elk Finance
+# Elk.finance
 
-## About Elk Finance
+## About Elk.finance
 
-Elk Finance is a decentralized network for cross-chain liquidity, making it possible for anyone to move value across blockchains quickly and at low cost. Learn more:
+Elk Finance is a decentralized network for cross-chain liquidity. The Elk ecosystem makes it possible to exchange cryptocurrencies and interact with smart contracts seamlessly across networks, bypassing the need for complicated and costly bridges. The Elk Finance motto is: Any chain, anytime, anywhere.
+
+Our mission is to enable cheap, fast, safe cross-chain value exchange across all blockchains. We hope to see a future where the crypto community becomes even more inclusive and where walls between chains are a thing of the past.
+
+#### Learn more:
 
 * [Website](https://elk.finance/)
 * [dApp](https://app.elk.finance)
@@ -17,15 +21,15 @@ Elk Finance is a decentralized network for cross-chain liquidity, making it poss
 
 |Description|Full|Compact|SVG|
 |---|---|---|---|
-|Main|<img src="Logo/elk-logo-full-v1.png" height=256 />  <img src="Logo/elk-logo-full-v2.png" width=256 />|<img src="Logo/elk-logo-compact.png" width=256 />|[Full Horizontal](Logo/SVG/elk-logo-full-v1.svg) \|[Full Vertical](Logo/SVG/elk-logo-full-v2.svg) \| [Compact](Logo/SVG/elk-logo-compact.svg)|
+|Main|<img src="Logo/elk-logo-full-v1.png" width=256 />  <img src="Logo/elk-logo-full-v2.png" width=256 />|<img src="Logo/elk-logo-compact.png" width=256 />|[Full Horizontal](Logo/SVG/elk-logo-full-v1.svg) \|[Full Vertical](Logo/SVG/elk-logo-full-v2.svg) \| [Compact](Logo/SVG/elk-logo-compact.svg)|
 |Use for|Partnerships, Partner's website, Listings|Round profile images, favicon|
-|Alt versions|Black, White|Black, White|
+|Alt versions|Black, White|Black, White|White: [Full Horizontal](Logo/SVG/elk-logo-full-v1.svg_white) \|[Full Vertical](Logo/SVG/elk-logo-full-v2_white.svg) \| [Compact](Logo/SVG/elk-logo-compact_white.svg)<br>Black: TBA|
 
-✅ Main logo can be used on both light and dark backgrounds, however, preferrable to use it on loght background
+✅ Main logo can be used on both light and dark backgrounds, however, preferrable to use it on light background
 
 ❌ Do not use Full version for low-res assets, such as favicon.
 
-✅ Do: When needed, you can both black and white versions, however a proper contrast ration should be maintened.
+✅ Do: When needed, you can both black and white versions, however a proper contrast ration should be maintained.
 
 ❌ Do not: Use gradient on light background.
 
@@ -34,7 +38,7 @@ Elk Finance is a decentralized network for cross-chain liquidity, making it poss
 
 ## Type
 
-* [Martel Sans](https://fonts.google.com/specimen/Martel+Sans)
+* [Aeonik Pro](https://aeonik.co.uk/font/) [Download](https://drive.google.com/file/d/1o-lQxt0sd28Q5U9qQ1nY9qqvf6jJmBf9/view?usp=sharing)
 
 ## Colors
 
